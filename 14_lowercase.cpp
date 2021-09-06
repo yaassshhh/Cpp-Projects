@@ -1,5 +1,5 @@
 /* 
-program -13  “Write a Program to Input a character and check whether it is in uppercase, lowercase, digit or
+program -14  “Write a Program to Input a character and check whether it is in uppercase, lowercase, digit or
 symbol and convert it to uppercase to lower case and lowercase to uppercase” */
 
 #include <iostream>
