@@ -1,7 +1,4 @@
 /* 
-NAME : RAHUL MUKATI
-ENO :  0827CI201150
-CSIT -3 
 program -28 “A Program to display the first 100 odd numbers using the while loop”  */
 
 #include <iostream>
