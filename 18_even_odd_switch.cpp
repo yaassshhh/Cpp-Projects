@@ -1,7 +1,5 @@
 /* 
-NAME : RAHUL MUKATI
-ENO :  0827CI201150
-CSIT -3 
+
 program -18 “A program for finding the given number is odd or even and first number is divisible by second using
 Switch Case Statement” */
 
