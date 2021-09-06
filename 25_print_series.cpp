@@ -1,7 +1,4 @@
 /* 
-NAME : RAHUL MUKATI
-ENO :  0827CI201150
-CSIT -3 
 program -24 “A program for print the series in the following format”
                                         54321
                                         4321
