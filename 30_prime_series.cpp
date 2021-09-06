@@ -1,7 +1,5 @@
 /* 
-NAME : RAHUL MUKATI
-ENO :  0827CI201150
-CSIT -3 
+
 program -21  “A Program for generate prime number series””  */
 
 #include <iostream>
