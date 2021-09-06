@@ -1,5 +1,5 @@
 /* 
-program -15 “A program for Mark sheet Calculations (total, percentage and result) using ternary operator” */
+program -16 “A program for Mark sheet Calculations (total, percentage and result) using ternary operator” */
 
 #include <iostream>
 using namespace std;
