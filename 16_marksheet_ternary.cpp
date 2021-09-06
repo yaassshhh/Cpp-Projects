@@ -1,7 +1,4 @@
 /* 
-NAME : RAHUL MUKATI
-ENO :  0827CI201150
-CSIT -3 
 program -15 “A program for Mark sheet Calculations (total, percentage and result) using ternary operator” */
 
 #include <iostream>
