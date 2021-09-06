@@ -1,7 +1,4 @@
 /* 
-NAME : RAHUL MUKATI
-ENO :  0827CI201150
-CSIT -3 
 program -17 “A Program for Swapping of two numbers with and without temporary variable” */
 
 
