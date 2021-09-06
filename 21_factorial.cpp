@@ -1,5 +1,5 @@
 /* 
-program -20 ““Program to calculate the factorial of an integer”” */
+program -21 ““Program to calculate the factorial of an integer”” */
 
 #include <iostream>
 using namespace std;
