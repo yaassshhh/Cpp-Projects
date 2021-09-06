@@ -1,7 +1,4 @@
 /* 
-NAME : RAHUL MUKATI
-ENO :  0827CI201150
-CSIT -3 
 program -20 ““A Program for given number is prime or not”” */
 
 #include <iostream>
