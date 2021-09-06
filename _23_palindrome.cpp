@@ -1,7 +1,4 @@
-/* 
-NAME : RAHUL MUKATI
-ENO :  0827CI201150
-CSIT -3 
+/*
 program -23 “Program for Display Reverse of a number and show a reverse number is palindrome or not”*/
 
 #include<iostream>
