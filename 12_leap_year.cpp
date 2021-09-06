@@ -1,7 +1,5 @@
 /* 
-NAME : RAHUL MUKATI
-ENO :  0827CI201150
-CSIT -3 
+
 program -12 ““Write a Program to Input a Year and Check whether it is Leap Year or not”*/
 
 #include <iostream>
