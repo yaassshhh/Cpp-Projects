@@ -1,7 +1,5 @@
 /* 
-NAME : RAHUL MUKATI
-ENO :  0827CI201150
-CSIT -3 
+
 program - 27 “A Program to find the sum of the first 100 natural numbers”  */
 
 #include<iostream>
