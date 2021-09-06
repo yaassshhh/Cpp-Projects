@@ -1,7 +1,4 @@
 /* 
-NAME : RAHUL MUKATI
-ENO :  0827CI201150
-CSIT -3 
 program - 35 “Program for convert seconds into minutes and hours. ”  */
 
 
