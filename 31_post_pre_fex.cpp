@@ -1,7 +1,4 @@
 /* 
-NAME : RAHUL MUKATI
-ENO :  0827CI201150
-CSIT -3 
 program -32  ““Program to demonstrate the unary operators, prefix and postfix modes.”” */
 
 #include <iostream>
