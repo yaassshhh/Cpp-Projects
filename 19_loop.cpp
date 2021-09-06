@@ -1,7 +1,4 @@
 /* 
-NAME : RAHUL MUKATI
-ENO :  0827CI201150
-CSIT -3 
 program -20 ““Program to calculate the factorial of an integer”” */
 
 #include<iostream>
