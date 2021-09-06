@@ -1,7 +1,5 @@
 /* 
-NAME : RAHUL MUKATI
-ENO :  0827CI201150
-CSIT -3 
+
 program -31  “A program to calculating the total amount of money earned in n day.” */
 
 #include <iostream>
