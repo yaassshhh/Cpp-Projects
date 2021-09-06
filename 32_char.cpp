@@ -1,7 +1,5 @@
 /* 
-NAME : RAHUL MUKATI
-ENO :  0827CI201150
-CSIT -3 
+
 program - 34 “Program for Printing characters base on their respective integer number.”  */
 
 #include<iostream>
