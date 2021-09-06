@@ -1,7 +1,4 @@
 /* 
-NAME : RAHUL MUKATI
-ENO :  0827CI201150
-CSIT -3 
 program -29 “A Program to find the sum and average of the given numbers using the while loop”  */
 
 #include<iostream>
